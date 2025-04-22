@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Sample Item 1",
+    "description": "This is the description for sample item 1.",
+    "image": "https://example.com/image1.jpg",
+    "id": "item-1"
+  },
+  {
+    "title": "Another Item",
+    "description": "Description of another interesting item.",
+    "image": "https://example.com/image2.png",
+    "id": "item-2"
+  },
+  {
+    "title": "Third Example",
+    "description": "A detailed description of the third example.",
+    "image": "https://example.com/image3.jpeg",
+    "id": "item-3"
+  },
+  {
+    "title": "Fourth Item Here",
+    "description": "Brief overview of what the fourth item is about.",
+    "image": "https://example.com/image4.gif",
+    "id": "item-4"
+  },
+  {
+    "title": "The Last Item",
+    "description": "The final item's description for demonstration.",
+    "image": "https://example.com/image5.webp",
+    "id": "item-5"
+  }
+]
